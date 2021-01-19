@@ -1,0 +1,26 @@
+.rafouk {
+  display: flex;
+}
+
+.price {
+  color: red;
+  font-family: fantasy;
+}
+
+.pricee {
+  text-align: center;
+  font-family: emoji;
+  font-size: x-large;
+  color: aliceblue;
+  background: aquamarine;
+}
+.contact {
+  color: brown;
+  font-style: oblique;
+  font-weight: 500;
+  text-align: right;
+}
+.email {
+  color: crimson;
+  text-align: right;
+}
